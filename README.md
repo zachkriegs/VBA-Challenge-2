@@ -9,9 +9,9 @@ The purpose of this project was to provide a real-time analysis of several green
 ### Execution Times
 The execution times of the original script are as follows:
 ### 2017
-![2017 Original Script Execution Time](2017 Original Script Execution Time.png)
+![2017_Original_Script_Execution_Time](2017_Original_Script_Execution_Time.png)
 ### 2018 
-![2018 Original Script Execution Time](2018 Original Script Execution Time.png)
+![2018 Original_Script_Execution_Time](2018_Original Script_Execution_Time.png)
 
 ## Summary
 
